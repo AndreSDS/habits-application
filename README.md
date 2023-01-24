@@ -1,1 +1,1 @@
-# habits-application
+# habits-server
